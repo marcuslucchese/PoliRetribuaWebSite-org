@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <section class="page-section campaign-intro">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </section>
+
+  {{ if .Pages }}
+    <div class="campaign-stack">
+      {{ range $i, $p := (.Pages.ByDate.Reverse) }}
+        <article id="{{ $p.Slug }}" class="campaign-block page-section{{ if modBool $i 2 }} campaign-block--alt{{ end }}">
+          <header class="campaign-block-header">
+            <time class="campaign-date" datetime='{{ $p.Date.Format "2006-01-02" }}'>{{ $p.Date.Format "02/01/2006" }}</time>
+            <h2>{{ $p.Title }}</h2>
+          </header>
+          <div class="campaign-block-body">
+            {{ $p.Content }}
+          </div>
+        </article>
+      {{ end }}
+    </div>
+  {{ end }}
+{{ end }}

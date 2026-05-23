@@ -1,0 +1,5 @@
+baseURL = "https://poliretribua.com.br/"
+languageCode = "pt-br"
+title = "PoliRetribua"
+
+disableKinds = ["taxonomy"]

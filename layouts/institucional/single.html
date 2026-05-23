@@ -1,0 +1,34 @@
+{{ define "main" }}
+  <section class="page-section">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </section>
+
+  {{ with .Params.stats }}
+    <section class="page-section stats-section" aria-labelledby="stats-heading">
+      {{ with $.Params.stats_heading }}
+        <h2 id="stats-heading">{{ . }}</h2>
+      {{ end }}
+      {{ with $.Params.stats_intro }}
+        <p class="stats-intro">{{ . | markdownify }}</p>
+      {{ end }}
+      {{ with $.Params.stats_year_note }}
+        <p class="stats-year-note">{{ . }}</p>
+      {{ end }}
+      <div class="stats-grid">
+        {{ range . }}
+          <article class="stat-card">
+            <span class="stat-number">{{ .value }}</span>
+            <span class="stat-label">{{ .label }}</span>
+          </article>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+
+  {{ with .Params.transparency }}
+    <section class="page-section">
+      {{ . | $.Page.RenderString }}
+    </section>
+  {{ end }}
+{{ end }}
