@@ -1,4 +1,7 @@
 baseURL = "https://marcuslucchese.github.io/PoliRetribuaWebSite-org/"
+relativeURLs = true
+canonifyURLs = true
+
 languageCode = "pt-br"
 title = "PoliRetribua"
 
