@@ -21,4 +21,4 @@ Sua doação faz a diferença para bolsas, mentorias e ações de apoio a estuda
 
 ### Contato para doações institucionais
 
-Envie uma mensagem para o email poliretribua1@politecnicos.org.br para receber informações sobre planos de doação contínua, comprovantes e prestação de contas.
+Envie uma mensagem para o email poli.retribua1@politecnicos.org.br para receber informações sobre planos de doação contínua, comprovantes e prestação de contas.
