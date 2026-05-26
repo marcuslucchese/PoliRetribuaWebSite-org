@@ -2,4 +2,4 @@
 title: "Contato"
 ---
 
-Email: poliretribua1@politecnicos.org.br
+Email: poli.retribua1@politecnicos.org.br
