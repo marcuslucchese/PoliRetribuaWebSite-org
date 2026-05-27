@@ -44,4 +44,4 @@ Ser referência em mentorias e oportunidades de apoio para todos os ingressantes
 
 O projeto é conduzido por um grupo de voluntários, egressos da Poli, e conta com coordenadores, mentores, equipe de apoio e parceiros dedicados à formação e apoio dos estudantes.
 
-Somos uma iniciativa do Poli Alumni, com sede no prédio de administração da Poli. Para saber mais detalhes do Poli Alumni, acesse [politecnicos.org.br](https://politecnicos.org.br)
+Somos uma iniciativa do Poli Alumni, com sede no prédio de administração da Poli. Para saber mais detalhes do Poli Alumni, acesse [polialumni.org.br](https://polialumni.org.br)

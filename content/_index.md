@@ -12,7 +12,7 @@ Hoje, essa trajetória se traduz em números concretos — dezenas de pares ment
 
 ## Poli Alumni
 
-O PoliRetribua não é uma iniciativa isolada. Somos **programa do Poli Alumni**, a associação de egressos da Escola Politécnica da USP, cuja presença institucional está em [**politecnicos.org.br**](https://politecnicos.org.br).
+O PoliRetribua não é uma iniciativa isolada. Somos **programa do Poli Alumni**, a associação de egressos da Escola Politécnica da USP, cuja presença institucional está em [**polialumni.org.br**](https://polialumni.org.br).
 
 Essa relação é estrutural, não apenas simbólica:
 
@@ -21,7 +21,7 @@ Essa relação é estrutural, não apenas simbólica:
 - **Canais e transparência** — nossos contatos, doações e prestação de contas passam pela estrutura do Poli Alumni (incluindo canais como `poli.retribua1@politecnicos.org.br`.
 - **Comunidade de egressos** — mentores, coordenadores e apoiadores vêm, em grande parte, da mesma comunidade que o Poli Alumni representa e articula.
 
-Em outras palavras: o PoliRetribua é a face voltada ao acolhimento de estudantes; o Poli Alumni é a casa institucional que sustenta, legitima e conecta esse trabalho à história da Poli. Para conhecer a associação, seus projetos e formas de participação, visite [**politecnicos.org.br**](https://politecnicos.org.br).
+Em outras palavras: o PoliRetribua é a face voltada ao acolhimento de estudantes; o Poli Alumni é a casa institucional que sustenta, legitima e conecta esse trabalho à história da Poli. Para conhecer a associação, seus projetos e formas de participação, visite [**polialumni.org.br**](https://polialumni.org.br).
 
 ## Explore o site
 
