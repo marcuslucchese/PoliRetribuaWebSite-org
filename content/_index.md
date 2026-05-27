@@ -18,7 +18,7 @@ Essa relação é estrutural, não apenas simbólica:
 
 - **Sede e enraizamento na Poli** — operamos a partir do prédio de administração da Escola Politécnica, no coração do campus.
 - **Identidade institucional** — somos parte da rede de projetos sociais e de formação conduzidos pelo Poli Alumni, organização formalmente instituída (OSCIP).
-- **Canais e transparência** — nossos contatos, doações e prestação de contas passam pela estrutura do Poli Alumni (incluindo canais como `poliretribua1@politecnicos.org.br`.
+- **Canais e transparência** — nossos contatos, doações e prestação de contas passam pela estrutura do Poli Alumni (incluindo canais como `poli.retribua1@politecnicos.org.br`.
 - **Comunidade de egressos** — mentores, coordenadores e apoiadores vêm, em grande parte, da mesma comunidade que o Poli Alumni representa e articula.
 
 Em outras palavras: o PoliRetribua é a face voltada ao acolhimento de estudantes; o Poli Alumni é a casa institucional que sustenta, legitima e conecta esse trabalho à história da Poli. Para conhecer a associação, seus projetos e formas de participação, visite [**politecnicos.org.br**](https://politecnicos.org.br).
