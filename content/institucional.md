@@ -7,9 +7,9 @@ stats_year_note: "Em 2026, contamos com:"
 stats:
   - value: "40"
     label: "pares mentores/alunos ativos"
-  - value: "12"
+  - value: "19"
     label: "alunos assistidos com bolsas"
-  - value: "5"
+  - value: "8"
     label: "notebooks doados"
 transparency: |
   ### Depoimentos
